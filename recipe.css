@@ -3,13 +3,25 @@ body{
 
 	background-image: url("Kitchen.jpg");
 }
+h1 {
+	display: inline-block; 
+	border: 2px solid black;
+	background: white
+}
+h2 { 
+	border: 2px solid black;
+	background: white
+}
+
 h3 {
 	display: inline-block; 
 	border: 2px solid black;
+	background: white
 }
 h4 {
 	display: inline-block; 
 	border: 2px solid black;
+	background: white
 }
 
 img {
