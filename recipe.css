@@ -6,22 +6,23 @@ body{
 h1 {
 	display: inline-block; 
 	border: 2px solid black;
-	background: white
+	background: white;
+	align-content: center;
 }
 h2 { 
 	border: 2px solid black;
-	background: white
+	background: white;
 }
 
 h3 {
 	display: inline-block; 
 	border: 2px solid black;
-	background: white
+	background: white;
 }
 h4 {
 	display: inline-block; 
 	border: 2px solid black;
-	background: white
+	background: white;
 }
 
 img {
